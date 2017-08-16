@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CropPhotoTest</string>
+
+    <string name="label_ok">确认</string>
+    <string name="label_cancel">取消</string>
+    <string name="permission_title_rationale">权限请求</string>
 </resources>
